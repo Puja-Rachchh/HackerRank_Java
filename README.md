@@ -1,2 +1,3 @@
 # HackerRank_Java
-Solutions of all java problems of hacker rank
+
+Hey There! Here I have shared Solutions of all java problems of hacker rank
